@@ -46,7 +46,7 @@ const StepContainer = () => {
               Next <span>👉</span>
             </Button>
           </div>
-        </div>g
+        </div>
       )}
     </div>
   );
